@@ -1,5 +1,8 @@
 Add,Commit,Push
 Checkout,branch
 Merge,pull
+<<<<<<< HEAD
 Clone
 Revert
+=======
+>>>>>>> parent of d86fb7a (Fourth)
