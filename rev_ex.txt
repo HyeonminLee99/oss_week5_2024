@@ -1,3 +1,4 @@
 Add,Commit,Push
 Checkout,branch
 Merge,pull
+Clone
